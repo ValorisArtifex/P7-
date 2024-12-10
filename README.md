@@ -1,4 +1,4 @@
-# Projet 7 Openclassrooms: Diagnostic sur l'égalité Femmes-Hommes avec KNIME et Python 📊💼🐍
+# Projet : Diagnostic sur l'égalité Femmes-Hommes avec KNIME et Python 📊💼🐍
 
 ## Introduction
 
